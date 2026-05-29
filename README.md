@@ -5,7 +5,6 @@
 <p>
   <a href="https://in.linkedin.com/in/chintan-hirpara"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://x.com/HirparaChi5381"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://www.instagram.com/chintan_hr_2707/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=chintan-hirpara&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
