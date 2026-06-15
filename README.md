@@ -115,8 +115,9 @@ Goal        : Entry-level role in Cybersecurity / IT Security
 |---|---|
 | 📄 Research Paper — ICAICS 2026 (*AI Models Comparative Study*) | 2026 |
 | 🖼️ Research Poster — ICRAECA 2025 (*Industry 4.0*) | 2025 |
-| 🛡️ The Hacker Meetup (THM) | 2025 |
-| 🌐 GDG Ahmedabad Meetups | 2023–2025 |
+| 🖼️ Research Poster — ICRAECA 2026 (Zero Budget Natural Farming (ZBNF)Myth or Reality) | 2026 |
+| 🛡️ The Hacker Meetup (THM) | 2023-Active |
+| 🌐 GDG Ahmedabad Meetups | 2023–Active |
 
 ---
 
