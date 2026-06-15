@@ -141,28 +141,6 @@ Goal        : Entry-level role in Cybersecurity / IT Security
 
 ---
 
-## 🛡️ TryHackMe
-
-<div align="center">
-
-<a href="https://tryhackme.com/p/ChintanHirpara27" target="_blank">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ChintanHirpara27.png" alt="TryHackMe Badge" style="max-width:100%;"/>
-</a>
-
-<br/><br/>
-
-<a href="https://tryhackme.com/ChintanHirpara27/streak?sharerId=68381384d1bca3f53ddcf9e8" target="_blank">
-  <img src="https://tryhackme-streak-stats.herokuapp.com/?user=ChintanHirpara27&theme=tokyonight&hide_border=true" alt="TryHackMe Streak" onerror="this.style.display='none'"/>
-</a>
-
-<br/>
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-ChintanHirpara27-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ChintanHirpara27)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
