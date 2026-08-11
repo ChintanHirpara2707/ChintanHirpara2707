@@ -79,7 +79,7 @@ Goal        : Entry-level role in Cybersecurity / IT Security
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 Warehouse & Inventory Management System</h3>
+      <h3 href="https://github.com/ChintanHirpara2707/Warehouse-Management-System" >📦 Warehouse & Inventory Management System</h3>
       <p><strong>Stack:</strong> MEAN (MongoDB, Express, Angular, Node.js)</p>
       <p>Full-stack inventory management system with secure RESTful APIs, role-based access control, and real-time stock tracking.</p>
       <img src="https://img.shields.io/badge/Year-2026-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-MEAN-green?style=flat-square"/>
