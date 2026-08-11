@@ -79,8 +79,7 @@ Goal        : Entry-level role in Cybersecurity / IT Security
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/ChintanHirpara2707/Warehouse-Management-System">
-      <h3>📦 Warehouse & Inventory Management System</h3></a>
+      <h3>📦 Warehouse & Inventory Management System</h3>
       <p><strong>Stack:</strong> MEAN (MongoDB, Express, Angular, Node.js)</p>
       <p>Full-stack inventory management system with secure RESTful APIs, role-based access control, and real-time stock tracking.</p>
       <img src="https://img.shields.io/badge/Year-2026-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-MEAN-green?style=flat-square"/>
@@ -114,9 +113,11 @@ Goal        : Entry-level role in Cybersecurity / IT Security
 
 | 🏅 Achievement | 📅 Year |
 |---|---|
-| 📄 Research Paper — ICAICS 2026 (*AI Models Comparative Study*) | 2026 |
-| 🖼️ Research Poster — ICRAECA 2025 (*Industry 4.0*) | 2025 |
-| 🖼️ Research Poster — ICRAECA 2026 (Zero Budget Natural Farming (ZBNF)Myth or Reality) | 2026 |
+| 📄 Published Paper — ICAICS 2026 (*AI-Driven Cybersecurity in Smart Agriculture*) — [ResearchGate](https://www.researchgate.net/publication/410946377) \| [SPU Journal](https://spujstmr.in/artical.php?vd=34&&ad=96) | 2026 |
+| 📄 Published Paper — ICAICS 2026 (*Comparative Study of Leading AI Models*) — [SPU Journal](https://spujstmr.in/artical.php?vd=34&&ad=97) | 2026 |
+| 🖼️ Research Poster — ICMOTARSS 2026 (*Zero Budget Natural Farming — Myth or Reality*) | 2026 |
+| 🖼️ Research Poster — ICRAECA 2025 (*Industry 4.0: Shaping the Future of Smart Manufacturing*) | 2025 |
+| 🥇 Gold Medal — E-Waste Management System Project | 2025 |
 | 🛡️ The Hacker Meetup (THM) | 2023-Active |
 | 🌐 GDG Ahmedabad Meetups | 2023–Active |
 
