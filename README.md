@@ -79,24 +79,29 @@ Goal        : Entry-level role in Cybersecurity / IT Security
 <table>
   <tr>
     <td width="50%" valign="top">
+     <h3>🌐 Terrafido Impex - <a href="https://terrafidoimpex.com">Link</a></h3>
+      <p><strong>Stack:</strong> React.js, Node.js, Express.js, MongoDB</p>
+      <p>Designed and developed a professional business website for 
+      Terrafido Impex with responsive UI, dynamic content management, 
+      and secure backend APIs.</p>
+      <img src="https://img.shields.io/badge/Year-2026-blue?style=flat-square"/> 
+      <img src="https://img.shields.io/badge/Stack-MERN-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Type-Client%20Project-orange?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📦 Warehouse & Inventory Management System</h3>
       <p><strong>Stack:</strong> MEAN (MongoDB, Express, Angular, Node.js)</p>
       <p>Full-stack inventory management system with secure RESTful APIs, role-based access control, and real-time stock tracking.</p>
       <img src="https://img.shields.io/badge/Year-2026-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-MEAN-green?style=flat-square"/>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+     <td width="50%" valign="top">
       <h3>📚 Library Management System</h3>
       <p><strong>Stack:</strong> MERN (MongoDB, Express, React, Node.js)</p>
       <p>Comprehensive library system with JWT authentication, book cataloging, member management, and secure backend hardening.</p>
       <img src="https://img.shields.io/badge/Year-2025-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-MERN-green?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚗 Car Guy Android App</h3>
-      <p><strong>Stack:</strong> Kotlin, Firebase</p>
-      <p>Feature-rich Android app for car enthusiasts, with Firebase real-time database, authentication, and modern Material Design UI.</p>
-      <img src="https://img.shields.io/badge/Year-2025-blue?style=flat-square"/> <img src="https://img.shields.io/badge/Stack-Kotlin%20%2B%20Firebase-purple?style=flat-square"/>
     </td>
     <td width="50%" valign="top">
       <h3>🏎️ Rustom Car Dealer Web App</h3>
